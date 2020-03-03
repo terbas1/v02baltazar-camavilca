@@ -1,0 +1,10 @@
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\bin\Debug\PjConexion3.exe.config
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\bin\Debug\PjConexion3.exe
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\bin\Debug\PjConexion3.pdb
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csprojAssemblyReference.cache
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.Form1.resources
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.Properties.Resources.resources
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csproj.GenerateResource.cache
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csproj.CoreCompileInputs.cache
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.exe
+D:\TECSUP\cursos2\Aplicaciones Moviles Multiplataforma\Semana1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.pdb
